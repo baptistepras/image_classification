@@ -5,5 +5,4 @@ I had to search for pictures, preprocess them, extract data and train some model
 
 # Warning
 
-It might not be usable as it uses a personal library given by my teacher, that is not accessible here. But the project can
-still be looked at and used, and diaporoma.md is a good summary of it.
+It might not be usable as it uses a personal library given by my teacher, that is not accessible here. But the project can still be looked at and used by copy/paste, and diaporoma.md is a good summary of it (in French).

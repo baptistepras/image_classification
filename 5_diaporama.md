@@ -5,7 +5,7 @@ jupytext:
     extension: .md
     format_name: myst
     format_version: 0.13
-    jupytext_version: 1.16.6
+    jupytext_version: 1.14.5
 kernelspec:
   display_name: Python 3 (ipykernel)
   language: python
@@ -27,14 +27,6 @@ rise:
   transition: none
   width: 90%
 ---
-
-+++ {"slideshow": {"slide_type": "slide"}}
-
-# Titre
-
-- Binôme: Baptiste PRAS
-- Adresses mails: baptiste.pras@universite-paris-saclay.fr
-- [Dépôt GitLab](https://gitlab.dsi.universite-paris-saclay.fr/baptiste.pras/L1InfoInitiationScienceDonnees-2022-2023-Semaine8)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
@@ -171,24 +163,3 @@ __Incertitude épistémique:__
 __Objectif du projet__:
 
 <img src=media/panneaux.jpeg>
-
-+++ {"slideshow": {"slide_type": "subslide"}}
-
-__Difficultés__:
-
-<img src=media/extraction1.png>
-<img src=media/extraction3.png>
-
-+++ {"slideshow": {"slide_type": "subslide"}}
-
-__Déconvenue__:
-
-<img src=media/rapport.png>
-
-+++
-
-## Conclusion
-
-+++ {"slideshow": {"slide_type": "subslide"}}
-
-Système efficace pour traiter dans différents contexte des panneaux de sens interdit et sens unique, mais finalité du projet pas aussi aboutie qu'espérée
